@@ -5,8 +5,7 @@ This project contains the PCB design files (schematic and board layout) for the 
 ### Files/Folders Description
 
 * **Illustrations and Output folder:** Contains images capturing the development stages of the project.
-* **MD Board:** The Motor Driver board layout file for reference.
-* **MD Schematic:** The schematic diagram file.
+* **Design Folder:** Contains the Motor Driver board layout file and the schematic diagram.
 * **BOM:** Bill of Materials listing the components used in this board.
 * **Circuit Diagram (optional):** The circuit diagram file.
 * **Pads Drill Diagram (optional):** The drill file for the PCB.
